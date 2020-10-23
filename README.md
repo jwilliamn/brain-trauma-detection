@@ -20,6 +20,8 @@ EEG analysis for brain traumatic injury detection
     * Logistic regression or Linear SVM model
     
     
+### Updated the Project Proposal
+
 ### Project team:
 
 > Jaspers Huanay – Intermediate experience with ML 
