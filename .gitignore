@@ -1,0 +1,7 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+data/
+proj_data/
+chmt_preproc/
+ml_data/
+preproc_data/
