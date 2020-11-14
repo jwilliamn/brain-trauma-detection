@@ -2,6 +2,7 @@
 __pycache__/
 data/
 proj_data/
-chmt_preproc/
 ml_data/
 preproc_data/
+.ipynb_checkpoints/
+
