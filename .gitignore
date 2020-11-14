@@ -5,4 +5,5 @@ proj_data/
 ml_data/
 preproc_data/
 .ipynb_checkpoints/
+raw_data/
 
