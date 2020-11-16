@@ -29,7 +29,7 @@ Traumatic Brain Injury (TBI) is a leading cause of death and disability around t
 Work on the feature analysis, feature selection and development of Machine Learning approach for brain trauma detection.
 
 ![Features](images/features.png)
-Fig 1. Selected features.
+<center>_Fig 1. Selected features._</center>
 
 ### Expected results:
 
