@@ -27,14 +27,19 @@ Traumatic Brain Injury (TBI) is a leading cause of death and disability around t
 ### Main task:
 
 Work on the feature analysis, feature selection and development of Machine Learning approach for brain trauma detection.
+
 ![Features](images/features.png)
+Fig 1. Selected features.
 
 ### Expected results:
 
 As the final result, Machine learning model able to distinguish people who suffered brain trauma in past from healthy controls group.
 
 ![Random Forest](images/randomFor.png)
+Fig 2. Random Forest performance 0(healthy) and 1(trauma): left true values, right predicted.
+
 ![Logistic Regression](images/logisticReg.png)
+Fig 3. Logistic Regression performance 0(healthy) and 1(trauma): left true values, right predicted.
 
 ### Reproducibility
 
