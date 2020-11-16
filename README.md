@@ -29,7 +29,7 @@ Traumatic Brain Injury (TBI) is a leading cause of death and disability around t
 Work on the feature analysis, feature selection and development of Machine Learning approach for brain trauma detection.
 
 ![Features](images/features.png)
-<center>_Fig 1. Selected features._</center>
+Fig 1. Selected features.
 
 ### Expected results:
 
@@ -44,8 +44,8 @@ Fig 3. Logistic Regression performance 0(healthy) and 1(trauma): left true value
 ### Reproducibility
 
 Main: `BrainTraumaDetection.ipynb`, contain all steps described in this project
-*`Artifacts.ipynb`, dedicated to detection of artifacts
-*`FeatureAnalysis.ipynb`, analysis of features generated
+* `Artifacts.ipynb`, dedicated to detection of artifacts
+* `FeatureAnalysis.ipynb`, analysis of features generated
 
 ### Adviser:
 
